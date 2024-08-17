@@ -1,4 +1,4 @@
-import TypeScript from "../Assets/svg/typescript";
+import TypeScript from "../Assets/svg/TypeScript";
 import Html from "../Assets/svg/Html";
 import Css from "../Assets/svg/Css";
 import Js from "../Assets/svg/Js";

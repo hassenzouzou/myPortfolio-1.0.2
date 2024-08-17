@@ -76,7 +76,7 @@ export default function Main() {
             />
           </svg>
           <img
-            class="main-pic absolute sm:top-[287px] top-[75px] sm:left-[145px] left-[70px] rounded-[50%] sm:w-[500px] sm:w-[200px] w-[150px]"
+            class="main-pic absolute sm:top-[287px] top-[75px] sm:left-[145px] left-[70px] rounded-[50%] sm:w-[500px] w-[150px]"
             src={hassenImg}
             alt=""
           />
