@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 
 import ScrollIcon from "../Assets/icons/scroll-arrow.png";
 import instagramIcon from "../Assets/icons/instagram.png";

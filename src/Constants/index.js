@@ -1,4 +1,3 @@
-import TypeScript from "../Assets/svg/TypeScript";
 import Html from "../Assets/svg/Html";
 import Css from "../Assets/svg/Css";
 import Js from "../Assets/svg/Js";
@@ -8,7 +7,14 @@ import Python from "../Assets/svg/Python";
 import TailwindCss from "../Assets/svg/TailwindCss";
 import BootStrap from "../Assets/svg/BootStrap";
 import ReactJs from "../Assets/svg/ReactJs";
+import Vite from "../Assets/svg/Vite";
+import TypeScript from "../Assets/svg/TypeScript";
+import MaterialUI from "../Assets/svg/MaterialUI";
+
+import MongoDB from "../Assets/svg/MongoDB";
 import NextJs from "../Assets/svg/NextJs";
+import ExpressJs from "../Assets/svg/ExpressJs";
+
 import Saudi from "../Assets/svg/Saudi";
 import UnitedKingdom from "../Assets/svg/UnitedKingdom";
 import France from "../Assets/svg/France";
@@ -24,10 +30,14 @@ export {
   TailwindCss,
   BootStrap,
   ReactJs,
+  Vite,
   NextJs,
   Saudi,
   UnitedKingdom,
   France,
+  MaterialUI,
+  MongoDB,
+  ExpressJs,
 };
 
 import blueGymImg from "../Assets/imgs/blueGym.png";
